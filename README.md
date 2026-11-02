@@ -25,3 +25,8 @@ Main contains the selected reader edition. [workshop](https://github.com/MarkDud
 Exactly five distinct generated visual works are planned for the performed talk, with truthful labels. Human photography and a manual GIMP transformation have separate source histories. The same work can appear more than once.
 
 This repository is the evolving talk companion linked from the CFP. The dated CFP file preserves the prepared proposal; the separate submission receipt records the successful portal submission.
+
+## Speaking and current CFP proposals
+
+- [Venue-specific CFP pitches and local speaking route](cfp/NEXT-ROUND-2026-11-02.md) — two tailored proposals, speaker bio, confirmed source links, and honest evidence gates (prepared 2026-11-02).
+- This repo is a public working source; a drafted or emailed proposal is not a conference acceptance. Source and media rights still need review before each venue.
