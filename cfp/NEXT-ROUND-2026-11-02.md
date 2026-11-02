@@ -56,3 +56,7 @@ The full SCaLE art submission stands. Cut down to FOSDEM design 20m; FOSS Backst
 
 - https://opensourcedesign.net/events/2027-01-30-call-for-participation-open-source-design-devroom-at-fosdem-2027/
 - https://program.foss-backstage.de/fossback27/cfp
+
+## FOSS Backstage portal field limits: already fitted
+
+For a ready-to-paste short title, <=350-character teaser and >=350-character description, use [FOSS-BACKSTAGE-2027-PORTAL-FIELDS.md](FOSS-BACKSTAGE-2027-PORTAL-FIELDS.md). These were checked against the live Pretalx first-page fields on 2026-11-02. Finish account/profile screens and record the actual submission receipt separately.
