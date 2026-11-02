@@ -4,6 +4,8 @@ Planned cue map; final slide files and image assets are in assembly. Main contai
 
 | Cue | Visible material / job |
 | --- | --- |
+| COVER | Existing title/cover, if shown; its own job, not the speaker greeting. |
+| GREET | **Provisional shared speaker greeting placeholder** — Mark / “Book of Charlie” reference (exact wording and actual image to be supplied). **Not the initial/title slide, and not the S01 narrative opener.** Use this greeting after the cover and before S01; it may recur in other talks. |
 | S01 | Human pond postcard, picture first. |
 | S02 | Medium, subject/form, art-status, quality, taste, production. |
 | S03 | Actual discarded material or its human photograph. |
@@ -21,3 +23,5 @@ Planned cue map; final slide files and image assets are in assembly. Main contai
 Replaying a work does not add a distinct generated work. A new source image does. Assemble from the actual files and keep credits readable. Plain text slides and inventory labels are not generated visual art.
 
 No slide deck, image asset, audience reaction or measured running time is claimed by this map.
+
+**Sequence ruling (November 2):** COVER → GREET → S01 postcard. The postcard remains the art talk's first substantive visual beat. GREET is not evidence that a photograph or quote has been supplied, not a newly generated image, and must not silently add a sixth generated work.
