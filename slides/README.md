@@ -5,7 +5,7 @@ Planned cue map; final slide files and image assets are in assembly. Main contai
 | Cue | Visible material / job |
 | --- | --- |
 | COVER | Existing title/cover, if shown; its own job, not the speaker greeting. |
-| GREET | **Provisional shared speaker greeting placeholder** — Mark / “Book of Charlie” reference (exact wording and actual image to be supplied). **Not the initial/title slide, and not the S01 narrative opener.** Use this greeting after the cover and before S01; it may recur in other talks. |
+| GREET | **Optional distinct Botticelli-style absurdist greeting image**, one of the talk-specific variants. **Not** the initial/title slide and **not** S01. Concept only until a selected file is assigned. If generated and displayed, it must replace one of the five planned generated works, not add a sixth. |
 | S01 | Human pond postcard, picture first. |
 | S02 | Medium, subject/form, art-status, quality, taste, production. |
 | S03 | Actual discarded material or its human photograph. |
@@ -24,4 +24,4 @@ Replaying a work does not add a distinct generated work. A new source image does
 
 No slide deck, image asset, audience reaction or measured running time is claimed by this map.
 
-**Sequence ruling (November 2):** COVER → GREET → S01 postcard. The postcard remains the art talk's first substantive visual beat. GREET is not evidence that a photograph or quote has been supplied, not a newly generated image, and must not silently add a sixth generated work.
+**Corrected owner ruling (November 2):** COVER → optional ridiculous Botticelli-style GREET → S01 postcard. The earlier book reference was mistaken and is void. The postcard remains the first substantive art beat. GREET is a proposed slot, not a new image asset or a sixth generated work.
